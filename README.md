@@ -4,7 +4,9 @@ This repository contains the code and configuration used to construct the revise
 
 ## Source data
 
-The source Bluesky dataset is publicly available from Failla and Rossetti's **Bluesky Social Dataset**, Zenodo DOI: `10.5281/zenodo.14669616`. The source data are not redistributed in this repository.
+The source Bluesky dataset is publicly available from Failla and Rossetti's **Bluesky Social Dataset**, Zenodo DOI: `10.5281/zenodo.14669616
+        
+        `. The source data are not redistributed in this repository.
 
 Place the required source files under `data/raw/` as described in `data/raw/README.md`.
 
@@ -58,4 +60,4 @@ Not included: the full source Bluesky dataset, large intermediate parquet/embedd
 
 These public-facing notebooks were reorganized for path portability and removal of development-only cells. Analytical decisions, thresholds, seeds, cohort definitions, and frozen manuscript checkpoints were not intentionally changed. The computationally heavy source-data pipeline was not re-executed during repository packaging.
 
-For audit details, see `docs/CODE_AUDIT.md`. Before public release, complete `docs/PUBLIC_RELEASE_CHECKLIST.md`.
+For audit details, see `docs/CODE_AUDIT.md`.
