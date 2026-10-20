@@ -1,0 +1,5 @@
+similarity_stratum,n_pairs,reviewer_1_n_similar,reviewer_1_rate,reviewer_2_n_similar,reviewer_2_rate,mean_reviewer_rate
+0.60_to_lt_0.65,50,23,0.46,24,0.48,0.47
+0.65_to_lt_0.70,50,34,0.68,29,0.58,0.63
+0.70_to_lt_0.75,50,33,0.66,39,0.78,0.72
+0.75_to_0.85,50,38,0.76,41,0.82,0.79

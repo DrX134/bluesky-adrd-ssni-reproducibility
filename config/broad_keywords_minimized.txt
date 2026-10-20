@@ -1,0 +1,197 @@
+adrd
+aducanumab
+aging
+alcohol
+alzheimer
+amyloid
+aphasia
+apoe
+assisted living
+astrocytes
+atn biomarker framework
+bad diet
+behavior change
+binge drinking
+biomarker test
+brain atrophy
+brain fog
+brain health
+brain injury
+brain scan
+caregiver
+charge nurse
+cholesterol levels
+chronic stress
+cigarette
+clinic too far
+clinical trials
+cognitive assessment
+cognitive concern
+cognitive decline
+cognitive fog
+cognitive inactivity
+cognitive screening
+cognitive test
+cognitive training
+concussion
+confusion
+csf abeta
+csf aî²42
+csf p-tau
+csf tau
+csf test
+ct scan
+delayed diagnosis
+delusion
+dementia
+depressed
+depression
+diabetes
+diagnosed early
+didnâ€™t finish school
+dietitian
+director of nursing
+discharge
+disoriented
+donanemab
+donepezil
+drunk
+early detection
+early diagnosis
+entorhinal cortex
+family concern
+family history
+family noticed
+fdg-pet
+feeding tube
+fmri
+foggy brain
+forgetfulness
+functional impairment
+functional mri
+genetic risk
+geriatric care manager
+geriatric psychiatrist
+geriatrician
+getting lost
+glial fibrillary acidic protein
+glutamate
+gp refused
+hard of hearing
+hbp
+hdl
+head injury
+health check
+hearing aid
+hearing loss
+high blood pressure
+high blood sugar
+high bp
+high cholesterol
+hippocampus
+home health aides
+hospice
+hypertension
+in-home care
+insomnia
+junk food
+lack of exercise
+ldl
+lecanemab
+limited stimulation
+lonely
+long-term care
+low cognitive demand
+low mood
+medial temporal lobe
+medicaid-certified
+medical director
+medicare-certified
+memantine
+memory care
+memory clinic
+memory concern
+memory loss
+memory screening
+mental fog
+mentally inactive
+microglia
+mild cognitive
+mmse
+mood swings
+mri scan
+neurodegeneration
+neuroinflammation
+neurologist appointment
+neurologist shortage
+neurons
+neuropsychological testing
+nicotine
+nlf
+no brain activity
+no exercise
+no help diagnosis
+not enough specialists
+not reading
+noticing changes
+nurse practitioners
+nursing assistant
+nursing home
+obesity
+occupational therapist
+online memory test
+only one doctor
+overwhelmed
+oxidative stress
+palliative care
+panic attack
+passive activities
+personal care
+pet scan
+pharmacist
+phosphorylated tau
+physical therapist
+physician assistants
+plasma abeta
+plasma neurofilament
+plasma p-tau
+posterior cingulate
+prefrontal cortex
+primary care visit
+private diagnosis
+processed food
+prodromal ad
+push referral
+remote screening
+repeating questions
+respite care
+risperidone
+runs in family
+sedentary
+sertraline
+sleep apnea
+sleep disorder
+smoking
+social isolation
+socially isolated
+speech difficulty
+speech-language pathologist
+spouse noticed
+stay home alone
+stem cell
+structural mri
+sundowning
+support groups
+t2d
+tau pathology
+tau pet
+tau tangles
+tbi
+telehealth memory test
+total tau
+trouble sleeping
+waited months
+wandering
+went to doctor
+word-finding difficulty
+worried about memory

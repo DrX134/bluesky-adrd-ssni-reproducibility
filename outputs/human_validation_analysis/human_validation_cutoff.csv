@@ -1,0 +1,7 @@
+cutoff,reviewer,n_below,below_similar_rate,n_at_or_above,at_or_above_similar_rate,difference_percentage_points
+0.65,reviewer_1_similar,50,0.46,150,0.7,23.999999999999993
+0.65,reviewer_2_similar,50,0.48,150,0.7266666666666667,24.66666666666667
+0.7,reviewer_1_similar,100,0.57,100,0.71,14.000000000000002
+0.7,reviewer_2_similar,100,0.53,100,0.8,27.0
+0.75,reviewer_1_similar,150,0.6,50,0.76,16.000000000000004
+0.75,reviewer_2_similar,150,0.6133333333333333,50,0.82,20.666666666666668
